@@ -1,0 +1,6 @@
+# your own data when you use this folder as your Registre: never shared
+rol-data.json
+rol-data.json.*
+sauvegardes/
+*.tmp
+__pycache__/

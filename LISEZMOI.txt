@@ -1,0 +1,78 @@
+LE REGISTRE DU SEIGNEUR - Rise of Lords
+========================================
+Version v261104 (première version publique) - auteur : lebron23
+
+Six sections :
+  - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
+  - Mon royaume : points de classement (Calculette), siège, équipement des
+    sorciers, arsenal, production – et l'historique de vos relevés ;
+  - Progression : bilan des investissements et plan (revenus, événements,
+    journal des gains) ;
+  - Outils : calcul des pillages, prix (espions, hérauts, upgrades…, mana) ;
+  - Combats : ennemis et simulation de combats ;
+  - À propos : versions et nouveautés.
+Profils et historique daté.
+
+Avec Python 3 (gratuit, https://www.python.org/downloads/), tout est
+enregistré automatiquement. Sans Python, la page fonctionne aussi :
+voir « SANS PYTHON » plus bas. Tout reste sur votre ordinateur.
+
+LANCER LE REGISTRE
+------------------
+Windows : double-cliquez sur « Lancer le Registre (Windows).bat ».
+          Si Python manque, la page de téléchargement s'ouvre :
+          pendant l'installation, cochez « Add python.exe to PATH ».
+          Si Windows affiche « Windows a protégé votre ordinateur » :
+          « Informations complémentaires » puis « Exécuter quand même ».
+
+Mac :     double-cliquez sur « Lancer le Registre (Mac).command ».
+          La première fois, si macOS refuse de l'ouvrir (« développeur
+          non identifié ») : clic droit sur le fichier > Ouvrir > Ouvrir.
+          Si Python manque, macOS propose de l'installer, ou la page de
+          téléchargement s'ouvre.
+
+Linux :   double-cliquez sur start.py (ou clic droit > « Exécuter comme
+          un programme »), ou dans un terminal : python3 start.py
+
+SANS PYTHON
+-----------
+Ouvrez directement « registre-du-seigneur.html » (double-clic) : tout
+fonctionne, mais l'enregistrement n'est pas automatique. Utilisez les
+boutons en haut de la page :
+  - « Ouvrir un fichier… » : charge votre fichier rol-data.json ;
+  - « Enregistrer dans un fichier » (ou Ctrl+S) : sauvegarde vos données.
+    Avec Chrome ou Edge, le premier enregistrement demande où ranger le
+    fichier, les suivants l'écrasent directement. Avec Firefox ou Safari,
+    le fichier est téléchargé : remplacez l'ancien par le nouveau.
+Le bandeau indique s'il reste des modifications non enregistrées, et le
+navigateur prévient si vous fermez la page sans avoir enregistré.
+Le fichier est le même qu'avec Python : vous pouvez passer d'un mode à
+l'autre en gardant rol-data.json dans ce dossier.
+
+La page s'ouvre dans votre navigateur. Une petite fenêtre (terminal)
+reste ouverte pendant l'utilisation : ne la fermez pas. Le programme
+s'arrête tout seul environ une minute après la fermeture de l'onglet.
+
+VOS DONNÉES
+-----------
+Avec Python, tout est enregistré automatiquement dans rol-data.json,
+dans ce dossier.
+Une copie par jour est gardée dans le dossier « sauvegardes » (30 jours).
+Pour changer d'ordinateur, copiez simplement tout le dossier.
+Sans Python, pensez à cliquer sur « Enregistrer dans un fichier ».
+
+Formules de points d'origine : calculette de Kingadri (Les Elfes de Taraya).
+
+RÈGLES DU JEU ET AVERTISSEMENT
+------------------------------
+Outil non officiel, sans lien avec l'équipe de Rise of Lords. Il ne se
+connecte jamais au jeu : aucune requête au site, aucune lecture de ses
+pages, aucune action répétée, aucun identifiant demandé, et ce n'est pas
+un module (add-on) du navigateur. Toutes les valeurs sont saisies ou
+collées à la main. Il respecte donc la charte du jeu (scripts, add-ons,
+rafraîchissements automatiques, multis et partage de compte interdits).
+
+L'outil est fourni tel quel, gratuitement. Les formules, prix et valeurs
+peuvent contenir des erreurs ou changer avec le jeu : l'auteur (lebron23)
+ne garantit pas les résultats et décline toute responsabilité quant à
+leur utilisation. Vérifiez dans le jeu avant une décision importante.
