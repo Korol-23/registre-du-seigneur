@@ -9,6 +9,7 @@
 - Mac : le lanceur trouve aussi Python lorsqu’il n’est pas dans le PATH (installateur python.org, Homebrew, MacPorts, Anaconda, pyenv) et n’ouvre plus la fenêtre d’installation d’Apple quand les outils de développement manquent.
 - Bilan et Plan : saboteurs, expérience des hérauts et production d’unités par jour sont trois secrets séparés, chacun avec sa barre, son coût restant et sa place dans l’ordre des achats (avant, une seule barre « Saboteurs » mélangeait les trois).
 - Plan : nouveau revenu « Top like du forum » (5 000 000 écus, nombre de fois par mois), compté dans le revenu mensuel et dans le journal des gains.
+- Siège, Équipement et Arsenal : sous « Manquant pour 33 000 » / « Pour atteindre … », une barre par objet montre la part de l’objectif déjà atteinte (en %).
 
 ## v261104 — Première version publique (4 novembre 2026)
 
