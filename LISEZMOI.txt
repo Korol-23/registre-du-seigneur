@@ -1,6 +1,6 @@
 LE REGISTRE DU SEIGNEUR - Rise of Lords
 ========================================
-Version v261104 (première version publique) - auteur : lebron23
+Version v261118 (le Registre en ligne) - auteur : lebron23
 
 Six sections :
   - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
@@ -12,6 +12,12 @@ Six sections :
   - Combats : ennemis et simulation de combats ;
   - À propos : versions et nouveautés.
 Profils et historique daté.
+
+VERSION EN LIGNE : https://registre-du-seigneur.web.app (rien à
+installer). Avec un compte gratuit, vos données sont en ligne, sur tous
+vos appareils (« Importer » reprend votre rol-data.json), et les joueurs
+vérifiés peuvent partager leur carte de combat. Voir « Confidentialité »
+sur le site.
 
 Avec Python 3 (gratuit, https://www.python.org/downloads/), tout est
 enregistré automatiquement. Sans Python, la page fonctionne aussi :
