@@ -17,8 +17,22 @@ Décompressez le zip, puis :
 - **Linux** : `python3 start.py`
 - **Sans Python** : ouvrez simplement `registre-du-seigneur.html` et utilisez « Enregistrer dans un fichier ».
 
-Tout le mode d'emploi est dans [LISEZMOI.txt](LISEZMOI.txt). Vos données restent sur votre ordinateur
-(fichier `rol-data.json`).
+Tout le mode d'emploi est dans [LISEZMOI.txt](LISEZMOI.txt). Avec la version téléchargée, vos données restent
+sur votre ordinateur (fichier `rol-data.json`).
+
+## Version en ligne
+
+➡️ **[registre-du-seigneur.web.app](https://registre-du-seigneur.web.app)** – rien à installer, dans le navigateur
+(ordinateur ou téléphone).
+
+- Sans compte, elle fonctionne comme la version téléchargée : tout reste dans votre navigateur.
+- Avec un compte gratuit (« Mon compte »), vos données sont enregistrées en ligne et vous les retrouvez sur tous vos
+  appareils ; « Importer » reprend le fichier `rol-data.json` de la version téléchargée.
+- Les joueurs dont le nom dans le jeu est vérifié peuvent partager leur carte de combat (attaque, défense ou les
+  deux) et voir celles des autres joueurs qui partagent, dans le simulateur de combats.
+
+Les données des comptes sont hébergées par Google (Firebase) : tout est expliqué dans « Confidentialité », en haut du
+site. La version en ligne ne contacte pas plus le jeu que la version téléchargée.
 
 ## Règles du jeu
 
