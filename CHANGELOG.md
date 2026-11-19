@@ -1,5 +1,13 @@
 # Versions
 
+## v261119 — Guide et partage (19 novembre 2026)
+
+- Calculette : nouveau bloc « Améliorations » avec les saboteurs, l’expérience des hérauts et les unités produites par jour — les mêmes valeurs que dans le Bilan (modifier l’une change l’autre), qui étaient difficiles à trouver.
+- Conseils : huit nouvelles astuces de joueur — les archives de la gazette, une missive à plusieurs joueurs, les liens de la Place Publique, actualiser le conseil de guerre, les compteurs d’événements qui repartent à minuit, le classement qui compte pour l’alignement, les seigneurs fantômes et des smileys cachés (nouvelle catégorie « Curiosités »). Merci à Youcat !
+- Nouveau : une visite guidée (proposée à la première visite, et à relancer depuis l’Accueil ou le Guide) qui montre en une minute où tout se trouve, sans rien modifier ; et un onglet « Guide » avec quatre parcours illustrés (démarrer, planifier, combattre, jouer en ligne) et les questions fréquentes.
+- Version en ligne : classement des joueurs qui partagent leur carte (points totaux recalculés depuis leur dernière mise à jour, avec sa date), visible seulement tant que vous partagez l’attaque et la défense ; les autres voient un aperçu verrouillé qui les invite à partager.
+- Version en ligne : le partage des cartes a son propre onglet « Partage » (dans Combats), pour alléger la page Ennemis — qui garde le simulateur avec les cartes partagées et une ligne vers « Partage ». Pour les joueurs qui partagent, quatre onglets : le classement (badge « récente » / « ancienne », et vos rivaux directs : qui est juste devant ou derrière vous, et ce qui vous sépare), « Qui puis-je battre ? » (votre carte contre toutes les cartes visibles, en attaque et en défense), « Nouveautés » (ce qui a changé à la dernière mise à jour de chacun) et « Progression » (les points de chacun dans le temps et les points gagnés sur 30 jours, chargés sur demande). La visite guidée et le Guide montrent le nouvel onglet.
+
 ## v261118 — Le Registre en ligne (18 novembre 2026)
 
 - Arsenal : les équipements de cavalerie (chanfreins, bardes, fers) vont jusqu’à 80 000 par objet (au lieu de 50 000), comme dans le jeu.

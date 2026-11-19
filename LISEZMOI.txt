@@ -1,6 +1,6 @@
 LE REGISTRE DU SEIGNEUR - Rise of Lords
 ========================================
-Version v261118 (le Registre en ligne) - auteur : lebron23
+Version v261119 (guide et partage) - auteur : lebron23
 
 Six sections :
   - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
