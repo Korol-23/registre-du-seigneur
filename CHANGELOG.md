@@ -1,5 +1,19 @@
 # Versions
 
+## v261120 — Mes objectifs (20 novembre 2026)
+
+- Combats : les rapports de combat de la nouvelle page du jeu sont de nouveau lus (la valeur du défenseur à distance et en magie était sur la même ligne que celle de l’attaquant) — import des ennemis et vérification du nom.
+- Pillages : la nouvelle liste du jeu (« Adversaire / Butin » et « Assaillant / Pertes », chaque pillage sur trois lignes, noms en liens) est lue ; l’ancienne aussi.
+- Conseils : les smileys « ZzZ » et « Boulet » s’écrivent sans espace.
+- Version en ligne : quand un administrateur vérifie votre nom, le refuse ou décide d’un changement de ce que vous partagez, un message vous le dit sur l’Accueil (et « nouveau » sur « Mon compte ») à votre prochaine visite.
+- Nombres : les milliers sont séparés par une espace de taille normale (l’espace fine d’avant était presque invisible sur certains écrans).
+- Plan : « Mes objectifs » — au lieu de tout le Bilan, le plan peut viser vos propres objectifs : un nombre d’unités (dragons, sorciers…), un nombre d’une arme, d’un équipement ou d’une arme de siège en particulier, ou une FAA / FAD à atteindre avec un type d’unité ; coût, mana et date pour chacun.
+- Partage : une mise à jour de votre carte sans aucun changement de valeurs n’est plus envoyée (le message explique pourquoi).
+- Conseils : les smileys officiels du forum, à copier un par un.
+- Ennemis : à côté de « Troupes de l’attaquant engagées », la raison (siège dévastateur : toutes ses troupes combattent, ou limité par son siège).
+- Pillages : la liste de tous les pillages (recherche d’un joueur, seulement ceux à 0 écu, tri par montant ou par nom), chaque montant des joueurs pillés plusieurs fois, la part de pillages qui ont rapporté, un bouton « Copier le résumé », et les dates « Aujourd’hui à 16:12 » / « Hier à … » / « 12/11 à … ».
+- Version en ligne, administrateurs : bouton « Doublons » sur chaque carte partagée pour supprimer les mises à jour identiques à la précédente (la première de chaque série et la dernière sont gardées, les joueurs voient donc les mêmes valeurs).
+
 ## v261119 — Guide et partage (19 novembre 2026)
 
 - Calculette : nouveau bloc « Améliorations » avec les saboteurs, l’expérience des hérauts et les unités produites par jour — les mêmes valeurs que dans le Bilan (modifier l’une change l’autre), qui étaient difficiles à trouver.
