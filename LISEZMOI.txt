@@ -1,23 +1,25 @@
 LE REGISTRE DU SEIGNEUR - Rise of Lords
 ========================================
-Version v261121 (équipes et simulateur) - auteur : lebron23
+Version v261122 (équipes, badges et sécurité) - auteur : lebron23
 
 Six sections :
   - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
   - Mon royaume : points de classement (Calculette), siège, équipement des
     sorciers, arsenal, production – et l'historique de vos relevés ;
   - Progression : bilan des investissements et plan (revenus, événements,
-    journal des gains) ;
-  - Outils : calcul des pillages, prix (espions, hérauts, upgrades…, mana) ;
-  - Combats : ennemis et simulation de combats ;
+    vos propres objectifs, journal des gains) ;
+  - Outils : calcul des pillages, prix (espions, hérauts, upgrades…, mana),
+    tours avant un événement, coffre (ce qu'il faut décoffrer) ;
+  - Combats : ennemis, simulateur de combats et, en ligne, partage des
+    cartes et équipes ;
   - À propos : versions et nouveautés.
 Profils et historique daté.
 
 VERSION EN LIGNE : https://registre-du-seigneur.web.app (rien à
 installer). Avec un compte gratuit, vos données sont en ligne, sur tous
 vos appareils (« Importer » reprend votre rol-data.json), et les joueurs
-vérifiés peuvent partager leur carte de combat. Voir « Confidentialité »
-sur le site.
+vérifiés peuvent partager leur carte de combat et rejoindre leur équipe
+pour les compétitions par équipes. Voir « Confidentialité » sur le site.
 
 Avec Python 3 (gratuit, https://www.python.org/downloads/), tout est
 enregistré automatiquement. Sans Python, la page fonctionne aussi :
@@ -40,24 +42,25 @@ Mac :     double-cliquez sur « Lancer le Registre (Mac).command ».
 Linux :   double-cliquez sur start.py (ou clic droit > « Exécuter comme
           un programme »), ou dans un terminal : python3 start.py
 
+La page s'ouvre dans votre navigateur. Une petite fenêtre (terminal)
+reste ouverte pendant l'utilisation : ne la fermez pas. Le programme
+s'arrête tout seul environ une minute après la fermeture de l'onglet.
+
 SANS PYTHON
 -----------
 Ouvrez directement « registre-du-seigneur.html » (double-clic) : tout
 fonctionne, mais l'enregistrement n'est pas automatique. Utilisez les
 boutons en haut de la page :
-  - « Ouvrir un fichier… » : charge votre fichier rol-data.json ;
-  - « Enregistrer dans un fichier » (ou Ctrl+S) : sauvegarde vos données.
+  - « Ouvrir… » : charge votre fichier rol-data.json ;
+  - « Enregistrer » (ou Ctrl+S) : sauvegarde vos données dans un fichier.
     Avec Chrome ou Edge, le premier enregistrement demande où ranger le
     fichier, les suivants l'écrasent directement. Avec Firefox ou Safari,
     le fichier est téléchargé : remplacez l'ancien par le nouveau.
-Le bandeau indique s'il reste des modifications non enregistrées, et le
+La pastille à côté indique s'il reste des modifications non enregistrées,
+le bouton « ? » explique où sont vos données, et le
 navigateur prévient si vous fermez la page sans avoir enregistré.
 Le fichier est le même qu'avec Python : vous pouvez passer d'un mode à
 l'autre en gardant rol-data.json dans ce dossier.
-
-La page s'ouvre dans votre navigateur. Une petite fenêtre (terminal)
-reste ouverte pendant l'utilisation : ne la fermez pas. Le programme
-s'arrête tout seul environ une minute après la fermeture de l'onglet.
 
 VOS DONNÉES
 -----------
@@ -65,7 +68,7 @@ Avec Python, tout est enregistré automatiquement dans rol-data.json,
 dans ce dossier.
 Une copie par jour est gardée dans le dossier « sauvegardes » (30 jours).
 Pour changer d'ordinateur, copiez simplement tout le dossier.
-Sans Python, pensez à cliquer sur « Enregistrer dans un fichier ».
+Sans Python, pensez à cliquer sur « Enregistrer » (en haut de la page).
 
 Formules de points d'origine : calculette de Kingadri (Les Elfes de Taraya).
 

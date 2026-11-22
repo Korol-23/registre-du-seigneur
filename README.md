@@ -1,7 +1,8 @@
 # Le Registre du Seigneur
 
 Outil gratuit pour les joueurs de **Rise of Lords** : points de classement, armée, siège, arsenal, production,
-bilan des investissements, plan d'achats, pillages, prix et simulation de combats – avec profils et historique daté.
+bilan des investissements, plan d'achats (ou vos propres objectifs), pillages, prix, tours, coffre et simulation de
+combats – avec profils et historique daté.
 
 Auteur : **lebron23**. Outil non officiel, sans lien avec l'équipe de Rise of Lords.
 
@@ -15,7 +16,7 @@ Décompressez le zip, puis :
 - **Windows** : double-cliquez sur « Lancer le Registre (Windows).bat »
 - **Mac** : double-cliquez sur « Lancer le Registre (Mac).command » (la première fois : clic droit > Ouvrir)
 - **Linux** : `python3 start.py`
-- **Sans Python** : ouvrez simplement `registre-du-seigneur.html` et utilisez « Enregistrer dans un fichier ».
+- **Sans Python** : ouvrez simplement `registre-du-seigneur.html` et utilisez « Enregistrer » en haut de la page.
 
 Tout le mode d'emploi est dans [LISEZMOI.txt](LISEZMOI.txt). Avec la version téléchargée, vos données restent
 sur votre ordinateur (fichier `rol-data.json`).
@@ -29,7 +30,9 @@ sur votre ordinateur (fichier `rol-data.json`).
 - Avec un compte gratuit (« Mon compte »), vos données sont enregistrées en ligne et vous les retrouvez sur tous vos
   appareils ; « Importer » reprend le fichier `rol-data.json` de la version téléchargée.
 - Les joueurs dont le nom dans le jeu est vérifié peuvent partager leur carte de combat (attaque, défense ou les
-  deux) et voir celles des autres joueurs qui partagent, dans le simulateur de combats.
+  deux) et voir celles des autres joueurs qui partagent : classement, « Qui puis-je battre ? », simulateur de combats.
+- Pour les compétitions par équipes, l'onglet « Équipes » calcule qui bat qui entre deux équipes (en pourcentages
+  seulement) et propose qui attaque qui.
 
 Les données des comptes sont hébergées par Google (Firebase) : tout est expliqué dans « Confidentialité », en haut du
 site. La version en ligne ne contacte pas plus le jeu que la version téléchargée.
