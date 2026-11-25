@@ -1,5 +1,18 @@
 # Versions
 
+## v261125 — Un Registre plus léger (25 novembre 2026)
+
+- Plan plus clair : la réponse d’abord (quand tout sera payé, le prochain achat, et ce qui vous freine, par exemple la mana), les 7 prochains achats (les suivants derrière un bouton), les 3 champs principaux de vos revenus (les autres dans « Réglages avancés »), et les événements, le journal des gains et les explications repliés avec un résumé d’une ligne. Rien n’est retiré ; ce que vous ouvrez reste ouvert.
+- Bilan plus clair : les totaux et les catégories d’abord, vos objectifs et améliorations dans un seul bloc, puis le détail par catégorie ; les graphiques de chaque catégorie, « Combats et pillages », « D’où viennent vos points » et les explications sont repliés avec un résumé d’une ligne.
+- Arsenal plus lisible : le tableau montre les colonnes essentielles (objet, prix, stock, puissance, rentabilité, ce qu’il faut pour atteindre le maximum) et tient dans la page ; « Toutes les colonnes » ajoute l’attaque ou défense par objet, les objets utilisés et l’investi.
+- Calculette sur téléphone et tablette : une bande reste en haut de l’écran avec vos points, votre FAA et votre FAD, mis à jour pendant la saisie (« Détail ↓ » mène au résultat complet).
+- Menus : les Conseils et le Guide passent de l’Accueil à « Aide » (anciennement « À propos »), avec les versions ; l’Accueil n’a plus de rangée d’onglets.
+- Accueil : « Pour bien démarrer », 3 étapes qui se cochent toutes seules (recopier vos valeurs dans la Calculette, fixer vos objectifs dans le Bilan, indiquer vos revenus dans le Plan), chacune avec un bouton vers le bon onglet ; la liste disparaît une fois les 3 faites, ou avec « Masquer ».
+- Visites guidées courtes selon ce que vous voulez faire : « Suivre mes points », « Planifier mes achats », « Préparer mes combats » et, en ligne, « Jouer en ligne » (4 ou 5 étapes chacune), proposées à la première visite et sur chaque parcours du Guide ; la visite complète reste. Elles montrent la nouvelle présentation du Plan et du Bilan.
+- Partage : quand votre carte ne peut pas être mise à jour parce que votre vérification est ancienne (sans profil lié ou sans carte), le panneau le dit clairement, avec ce qu’il faut faire (la renouveler dans « Mon compte ») et la date jusqu’à laquelle vous voyez les cartes des autres ; une fois le renouvellement envoyé, il indique qu’il attend l’administrateur et qu’il faudra ensuite recharger la page puis mettre à jour sa carte.
+- Conseils : nouvelle curiosité « Une citation dans un message du forum », les balises [cite]…[/cite] à copier en un clic (astuce de youcat).
+- Partage → Classement : nouvelle case « Ajouter les joueurs de mes rapports » (cochée par défaut) : les joueurs dont vous avez un rapport d’attaque et un de défense (onglet « Ennemis ») prennent leur place dans le classement, avec leurs points estimés (marqués ≈) et la date des rapports. Un joueur qui partage sa carte compte toujours d’après sa carte. Réservé aux joueurs qui partagent ; les autres voient combien de joueurs ils pourraient y placer (idée de Ptilu21).
+
 ## v261122 — Équipes, badges et sécurité (22 novembre 2026)
 
 - Sécurité (signalé par un joueur) : la carte vérifiée d’un joueur qui a partagé après votre dernière mise à jour pouvait être lue dans les requêtes du navigateur, alors que la page la cachait. Comme ses mises à jour, elle n’est maintenant lisible qu’une fois votre propre carte mise à jour. Confidentialité : précision sur l’heure d’écriture que la base garde pour chaque document.
