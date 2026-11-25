@@ -1,6 +1,6 @@
 LE REGISTRE DU SEIGNEUR - Rise of Lords
 ========================================
-Version v261122 (équipes, badges et sécurité) - auteur : lebron23
+Version v261125 (un Registre plus léger) - auteur : lebron23
 
 Six sections :
   - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
@@ -12,7 +12,7 @@ Six sections :
     tours avant un événement, coffre (ce qu'il faut décoffrer) ;
   - Combats : ennemis, simulateur de combats et, en ligne, partage des
     cartes et équipes ;
-  - À propos : versions et nouveautés.
+  - Aide : conseils, guide pas à pas, versions et nouveautés.
 Profils et historique daté.
 
 VERSION EN LIGNE : https://registre-du-seigneur.web.app (rien à
