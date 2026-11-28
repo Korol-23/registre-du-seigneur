@@ -1,5 +1,13 @@
 # Versions
 
+## v261128 — Coller depuis le jeu (28 novembre 2026)
+
+- Équipes : la liste en bas de la grille montre maintenant chaque joueur qui partage, avec son équipe. Vous pouvez mettre n’importe lequel dans une autre équipe, aussi s’il en a déjà une (quand des joueurs changent d’équipe pour quelques jours) : il compte alors dans cette équipe, d’après sa carte partagée, dans votre grille et celle de vos coéquipiers, jusqu’à ce que vous remettiez « Son équipe ». Un joueur dont la demande n’est pas encore acceptée par le chef y apparaît aussi, avec « demande en attente », et peut être placé.
+- Correction, Équipes (administrateur) : une équipe créée depuis plus d’un jour ne pouvait plus être renommée ni recevoir un chef (le choix revenait aussitôt en arrière). Et quand un joueur demande à rejoindre une équipe qui n’a pas de chef, l’administrateur le voit dans « à traiter » et peut le nommer chef en un clic.
+- Accueil, « Pour bien démarrer » : l’étape « Indiquez vos revenus » se coche dès qu’un revenu du Plan est indiqué (cadeaux Melqart, Excalibur, likes, production volée…), même si vous gardez le gain par victoire proposé et toutes les tours mana.
+- Plan : une barre « D’où viennent vos revenus » en haut de « Vos revenus », moyenne par mois sur un an : pillages, production, événements, cadeaux Melqart, place publique et forum (Excalibur, likes), campings ; la production volée est retirée et indiquée sous la barre. Le total est celui que le Plan utilise ; le coffre n’y est pas, ce n’est pas un revenu.
+- Nouveau : « Remplir en collant une page du jeu » en haut des onglets Siège, Équipement sorciers, Arsenal et Production. Copiez la page du jeu (Ctrl+A, Ctrl+C) et collez-la : chaque onglet dit quelle page coller, lit le stock (ou la quantité des technologies de production), montre ce qui change, puis l’applique d’un clic ; « Annuler » remet les valeurs d’avant. Le Registre ne contacte jamais le jeu : c’est vous qui copiez.
+
 ## v261125 — Un Registre plus léger (25 novembre 2026)
 
 - Plan plus clair : la réponse d’abord (quand tout sera payé, le prochain achat, et ce qui vous freine, par exemple la mana), les 7 prochains achats (les suivants derrière un bouton), les 3 champs principaux de vos revenus (les autres dans « Réglages avancés »), et les événements, le journal des gains et les explications repliés avec un résumé d’une ligne. Rien n’est retiré ; ce que vous ouvrez reste ouvert.
