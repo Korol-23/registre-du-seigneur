@@ -1,6 +1,6 @@
 LE REGISTRE DU SEIGNEUR - Rise of Lords
 ========================================
-Version v261125 (un Registre plus léger) - auteur : lebron23
+Version v261128 (coller depuis le jeu) - auteur : lebron23
 
 Six sections :
   - Accueil : le résumé de votre profil, avec des liens vers chaque onglet ;
